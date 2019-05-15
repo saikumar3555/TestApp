@@ -1,0 +1,70 @@
+13052019
+
+
+Github is a web application ,which is running on git cloud flatform.
+for easyness we uses git as a client .
+
+fot that we have to download git client from net.
+
+for operations we uses git bash(comand prompt),
+--------------------------------
+some imp commands are:
+
+git init ::to initialize folder as a git repository
+
+git clone :: to take project from server system to local system
+
+             (this is similar to check out in SVN)
+
+git add -m::to add new/modufy files to staging area 
+
+            st
+
+git --add -m::  to add morethan one files at a time 
+
+git status ::it will shows whether file is added to staging area or not
+
+git push ::used for move files from local repository to server repository
+
+-------------------------------------------------------
+14-05-2019
+
+1)git init
+2)git clone
+3)git add
+4)git add --a
+5)git commit -m 'msg'
+6)git reset HEAD <filename>
+7)git checkout <filename>
+8)git status
+9)git log
+
+10)git -b <branch-name>  clone <branch-url>
+
+6)git reset HEAD <file>
+7)git checkout <file>
+8)git diff
+9)git log
+--------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
